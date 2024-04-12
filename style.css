@@ -49,7 +49,7 @@ body {
   @keyframes show-animate  {
     0%,30% {
         opacity: 0;
-        transform: rotate(-20deg);
+        transform: rotate(-90deg);
     }
     100% {
         opacity: 1;
