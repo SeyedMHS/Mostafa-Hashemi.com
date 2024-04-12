@@ -47,7 +47,7 @@ body {
   }
 
   @keyframes show-animate  {
-    0%,10% {
+    0%,30% {
         opacity: 0;
         transform: rotate(-20deg);
     }
